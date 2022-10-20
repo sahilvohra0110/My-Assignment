@@ -1,4 +1,4 @@
-givenlist = [2,4,5,3]
+givenlist = [2,4,1,3]
 #available in question already
 
 givenlist.sort()
